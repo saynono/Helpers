@@ -24,3 +24,9 @@ Also tells you how to add path variables to the os. If cmake tells you something
 
 ### installing cmake ###
 https://www.scivision.co/windows-gcc-gfortran-cmake-make-install/
+
+### linux fun on windows!!! ###
+
+Serial within WSL
+https://www.scivision.co/usb-tty-windows-subsystem-for-linux/
+
