@@ -16,7 +16,9 @@ This will copy your public key to a remote machine. No more login credentials ne
 
 
 
-### oh oh windows ###
+#### oh oh windows ####
 
-Installing mingw. Also tells you how to add path variables to the os
+
+### installing mingw ###
 http://www.codebind.com/cprogramming/install-mingw-windows-10-gcc/
+Also tells you how to add path variables to the os. If cmake tells you something is broken you might need to add mingw bins to path.
