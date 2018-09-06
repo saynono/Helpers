@@ -12,3 +12,11 @@ This will copy your public key to a remote machine. No more login credentials ne
 ```find . -iname '._*' -exec rm -rf {} \;```
 
 
+
+
+
+
+### oh oh windows ###
+
+Installing mingw. Also tells you how to add path variables to the os
+http://www.codebind.com/cprogramming/install-mingw-windows-10-gcc/
