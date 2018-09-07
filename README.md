@@ -11,8 +11,9 @@ This will copy your public key to a remote machine. No more login credentials ne
 ### delete annoying hidden osx files in all subdirectories
 ```find . -iname '._*' -exec rm -rf {} \;```
 
-
-
+### Linux: Open Serial port without sudo ###
+```sudo usermod -a -G dialout [username]```
+https://unix.stackexchange.com/questions/14354/read-write-to-a-serial-port-without-root
 
 
 
