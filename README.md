@@ -30,3 +30,4 @@ https://www.scivision.co/windows-gcc-gfortran-cmake-make-install/
 Serial within WSL
 https://www.scivision.co/usb-tty-windows-subsystem-for-linux/
 
+b2 -j8 toolset=msvc-14.1 address-model=64 architecture=x86 link=static threading=multi runtime-link=shared --build-type=complete stage
